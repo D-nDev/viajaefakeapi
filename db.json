@@ -1,4 +1,5 @@
-[
+{
+  "cities": [
     {
       "id": "fortaleza",
       "name": "Fortaleza",
@@ -64,3 +65,4 @@
       "image": "https://d-ndev.github.io/api-maps-images/maceio.jpeg"
     }
   ]
+}
