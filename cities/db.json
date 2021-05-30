@@ -1,0 +1,66 @@
+[
+    {
+      "id": "fortaleza",
+      "name": "Fortaleza",
+      "state": "Ceará",
+      "description": "A vocação de ser referência nacional em diversos setores artísticos, faz da capital cearense o destino ideal para muita festa, recheado de história e, sem dúvida, tem muito o que fazer em Fortaleza entre suas paisagens incríveis do famoso litoral nordestino.",
+      "country": "Brasil",
+      "image": "https://d-ndev.github.io/api-maps-images/fortaleza.png"
+    },
+    {
+      "id": "blumenau",
+      "name": "Blumenau",
+      "state": "Santa Catarina",
+      "description": "Localizada no belíssimo Vale do Itajaí, o charme da herança cultural dos colonizadores europeus está por todos os lados. Além de ser reconhecida internacionalmente pela maior festa alemã das Américas – a Oktoberfest, Blumenau recebe seus visitantes com um clima todo especial e uma culinária de lamber os beiços.",
+      "country": "Brasil",
+      "image": "https://d-ndev.github.io/api-maps-images/blumenau.jpeg"
+    },
+    {
+      "id": "olinda",
+      "name": "Olinda",
+      "state": "Pernambuco",
+      "description": "A árvore-símbolo da cidade é a marca registrada das paisagens da região colocando seus coqueiros como pano de fundo para qualquer foto do álbum de viagem. Entre as ladeiras (consideradas Patrimônio Cultural Mundial) e o fundo do mar, fique com os dois. Conhecida como a “Capital Brasileira dos Naufrágios”, a vida marinha de Olinda é indiscutivelmente imperdível.",
+      "country": "Brasil",
+      "image": "https://d-ndev.github.io/api-maps-images/olinda.jpeg"
+    },
+    {
+      "id": "ouro-preto",
+      "name": "Ouro Preto",
+      "state": "Minas Gerais",
+      "description": "Dentro da enorme diversidade do patrimônio cultural brasileiro, Ouro Preto é motivo de destaque. Não será difícil se encantar com os conjuntos urbanísticos e arquitetônicos do século XVIII, seus núcleos históricos e um clima de sedução em meio as capelas, museus e chafarizes ladeados pelas ladeiras de paralelepípedo que recortam toda a antiga Vila Rica.",
+      "country": "Brasil",
+      "image": "https://d-ndev.github.io/api-maps-images/ouropreto.jpg"
+    },
+    {
+      "id": "salvador",
+      "name": "Salvador",
+      "state": "Bahia",
+      "description": "A começar pelas misturas culturais, seja do simpático povo soteropolitano ou da música animada, passando pelas histórias contadas em seus casarios coloniais, além da culinária com fortes raízes africanas. A brincadeira fica ainda mais divertida quando o assunto são os mais de 50 quilômetros de praias.",
+      "country": "Brasil",
+      "image": "https://d-ndev.github.io/api-maps-images/salvador.png"
+    },
+    {
+      "id": "florianopolis",
+      "name": "Florianópolis",
+      "state": "Santa Catarina",
+      "description": "A beleza da ilha é indiscutível. Para os amantes de esportes radicais a costa leste é um prato cheio. Mesmo se não for curtir um voo de asa delta ou as ondas da Praia Mole, as trilhas e a paisagem intacta de Florianópolis se tornam um baita programa. Entre os passeios em meio a natureza, destaque para o roteiro de barco à Costa da Lagoa com direito a cachoeira ou uma visita a Lagoa do Peri, a maior lagoa de água doce potável da costa catarinense.",
+      "country": "Brasil",
+      "image": "https://d-ndev.github.io/api-maps-images/florianopolis.jpeg"
+    },
+    {
+      "id": "gramado",
+      "name": "Gramado",
+      "state": "Rio Grande do Sul",
+      "description": "O contraste cultural das origens europeias com a referência dos costumes dos gaúchos é uma particularidade mais do que exclusiva, inclusive facilmente notado em qualquer hotel em Gramado. No coração da Serra Gaúcha, além dos cenários encantadores e um povo hospitaleiro, o clima diferenciado é um dos motivos que leva tanta gente a conhecer a região, principalmente quando as temperaturas caem.",
+      "country": "Brasil",
+      "image": "https://d-ndev.github.io/api-maps-images/gramado.jpeg"
+    },
+    {
+      "id": "maceio",
+      "name": "Maceió",
+      "state": "Alagoas",
+      "description": "Seja pelos tons de azul e verde das águas do mar, pelas areias brancas e finas ou pela magia das paisagens formadas pelos infinitos coqueirais, os encantos de Maceió estão por todos os lados. Com praias ainda primitivas, as piscinas naturais formadas na maré baixa completam ainda mais o conceito de paraíso.",
+      "country": "Brasil",
+      "image": "https://d-ndev.github.io/api-maps-images/maceio.jpeg"
+    }
+  ]
